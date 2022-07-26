@@ -1,3 +1,6 @@
+# **DeltaX Assignment**
+`Clean Architecture` was implemented in the project as an N-Tier application. The APIs are created only to create the mock screens provided. The Database was designed keeping mock screens in mind.
+
 # **API Documentation**
 
 ## **1. Actor**
